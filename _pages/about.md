@@ -66,7 +66,7 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
   <li>Oral Presentation, ACCV 2022</li>
   <li>2BK21 Excellent Research Award, Inha University, 2023</li>
   <li>Global Vision Scholarship, Inha University, 2021 – 2023 </li>
-  <li>ff</li>
+  <li>Mathematical Contest in Modeling(MCM), Meritorious Winners，2017</li>
 </ul>
 
 ## 📚 Academic Activities
