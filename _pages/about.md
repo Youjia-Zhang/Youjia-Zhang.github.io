@@ -49,3 +49,22 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
   - Introduction to Deep Learning, Spring 2025 
   - Advanced Computer Vision, Fall 2024
   - Computer Vision, Fall 2021
+ 
+
+## 🎓 Education
+- **Ph.D. Student**, Department of Immersive Media Engineering, **Sungkyunkwan University**  
+  *Mar. 2024 – Present*  
+  Advisor: [Prof. Sungeun Hong](https://www.csehong.com/)
+
+- **Ph.D. Student**, Department of Information and Communication Engineering, **Inha University**  
+  *Sep. 2021 – Mar. 2024*  
+  Advisor: [Prof. Sungeun Hong](https://www.csehong.com/)
+
+- **M.S.**, Department of Computer Science and Technology, **Chongqing University of Posts and Telecommunications (CQUPT)**  
+  *Sep. 2018 – Jun. 2021*  
+  Advisor: [Prof. Xu Zhang](https://faculty.cqupt.edu.cn/zhangx/zh_CN/index.htm)
+
+- **B.S.**, School of Mathematics and Statistics, **Chongqing University of Posts and Telecommunications (CQUPT)**  
+  *Sep. 2014 – Jun. 2018*
+
+
