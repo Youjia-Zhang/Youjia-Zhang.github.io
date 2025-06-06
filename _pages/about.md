@@ -52,16 +52,10 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
  
 
 ## 🎓 Education
-<div style="font-size: 80%;">
-- 2024.03 – Present: Ph.D. Student, Department of Immersive Media Engineering, Sungkyunkwan University, advised by [Prof. Sungeun Hong](https://www.csehong.com/)
-</div>
-<div style="font-size: 80%;">
-- 2021.09 – 2024.03: Ph.D. Student, Department of Information and Communication Engineering, Inha University, advised by [Prof. Sungeun Hong](https://www.csehong.com/)
-</div>
-<div style="font-size: 80%;">
-- 2018.09 – 2021.06: M.S., School of Computer Science and Technology, CQUPT, advised by [Prof. Xu Zhang](https://faculty.cqupt.edu.cn/zhangx/zh_CN/index.htm)
-</div>
-<div style="font-size: 80%;">
-- 2014.09 – 2018.06: B.S., School of Mathematics and Statistics, Chongqing University of Posts and Telecommunications (CQUPT)
-</div>
+<ul style="font-size: 80%; line-height: 1.4;">
+  <li>2024.03 – Present: Ph.D. Student, Department of Immersive Media Engineering, Sungkyunkwan University, advised by <a href="https://www.csehong.com/">Prof. Sungeun Hong</a></li>
+  <li>2021.09 – 2024.03: Ph.D. Student, Department of Information and Communication Engineering, Inha University, advised by <a href="https://www.csehong.com/">Prof. Sungeun Hong</a></li>
+  <li>2018.09 – 2021.06: M.S., School of Computer Science and Technology, CQUPT, advised by <a href="https://faculty.cqupt.edu.cn/zhangx/zh_CN/index.htm">Prof. Xu Zhang</a></li>
+  <li>2014.09 – 2018.06: B.S., School of Mathematics and Statistics, Chongqing University of Posts and Telecommunications (CQUPT)</li>
+</ul>
 
