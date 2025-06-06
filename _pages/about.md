@@ -42,7 +42,7 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
 
 
 ## 📂 Projects
-- ### **RGB-X Path Networks for Multi-modal Multi-task Learning** (2023.03 ~ 2026.02)
+- ### RGB-X Path Networks for Multi-modal Multi-task Learning (2023.03 ~ 2026.02)
   <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
     <li>Funded by National Research Foundation of Korea (NRF)  
     <li>Develop path networks for RGB-X data (e.g., depth, thermal, tactile, text) to enable efficient multi-modal fusion and knowledge transfer across tasks and environments, thereby supporting generalization and adaptability in complex real-world settings
