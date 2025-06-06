@@ -17,17 +17,25 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
 
 ## 📝 Selected Publications 
 - ### Question-Aware Gaussian Experts for Audio-Visual Question Answering
-  Hongyeob Kim*, Inyoung Jung*, Dayoon Suh, **Youjia Zhang**, Sangmin Lee and Sungeun Hong   
- <span style="color:MediumBlue">**CVPR 2025 [Highlight]**</span>  [[Project page]](https://aim-skku.github.io/QA-TIGER/)
+  <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
+    <li>Hongyeob Kim*, Inyoung Jung*, Dayoon Suh, **Youjia Zhang**, Sangmin Lee and Sungeun Hong   
+    <li><span style="color:MediumBlue">**CVPR 2025 [Highlight]**</span>  [[Project page]](https://aim-skku.github.io/QA-TIGER/)
+  </ul>   
 - ### Memory-Efficient Cross-Modal Attention for RGB-X Segmentation and Crowd Counting
-  **Youjia Zhang**, Soyun Choi, and Sungeun Hong   
- <span style="color:MediumBlue">**Pattern Recognition 2025[Q1]**</span>  [[DOI]](https://aim.skku.edu/publication/international-journal)
+  <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
+    <li>**Youjia Zhang**, Soyun Choi, and Sungeun Hong   
+    <li><span style="color:MediumBlue">**Pattern Recognition 2025[Q1]**</span>  [[DOI]](https://aim.skku.edu/publication/international-journal)
+  </ul>   
 - ### Intra-inter modal attention blocks for RGB-D semantic segmentation
-  Soyun Choi, **Youjia Zhan**g and Sungeun Hong
- <span style="color:MediumBlue">**ICMR 2023 [Oral]**</span>  [[Project page]](https://aim.skku.edu/publication/international-conference/ima_icmr23)
+  <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
+    <li>Soyun Choi, **Youjia Zhan**g and Sungeun Hong
+    <li><span style="color:MediumBlue">**ICMR 2023 [Oral]**</span>  [[Project page]](https://aim.skku.edu/publication/international-conference/ima_icmr23)
+  </ul>   
 - ### Spatio-channel attention blocks for cross-modal crowd counting
-  **Youjia Zhang**, Soyun Choi, and Sungeun Hong   
- <span style="color:MediumBlue">**ACCV 2022 [Oral]**</span>  [Project page]  [[Project page]](https://aim.skku.edu/publication/international-conference/csca_accv22)
+  <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
+    <li>**Youjia Zhang**, Soyun Choi, and Sungeun Hong   
+    <li><span style="color:MediumBlue">**ACCV 2022 [Oral]**</span>  [Project page]  [[Project page]](https://aim.skku.edu/publication/international-conference/csca_accv22)
+  </ul>   
 
 
 ## 📂 Projects
