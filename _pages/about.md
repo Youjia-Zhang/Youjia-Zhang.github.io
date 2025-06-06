@@ -44,7 +44,6 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
 ## 📚 Academic Activities
 
 <div style="font-size: 85%; line-height: 1.4;">
-
 ### Reviewer
 <ul style="margin-top: 0; margin-bottom: 0;">
   <li>ACM International Conference on Multimedia (ACM MM)</li>
