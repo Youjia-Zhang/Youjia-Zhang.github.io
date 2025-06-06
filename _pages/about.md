@@ -42,17 +42,24 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
   - Spatio-channel attention blocks for cross-modal crowd counting (Registration number C-2022-055027)
 
 ## 📚 Academic Activities
-<div style="font-size: 88%; line-height: 1.4;">
-  
-### Reviewer
-- ACM International Conference on Multimedia (ACM MM)  
-- Neural Information Processing Systems (NeurIPS)  
 
-### Teaching Assistant  
-- Introduction to Deep Learning, Spring 2025  
-- Advanced Computer Vision, Fall 2024  
-- Computer Vision, Fall 2021  
+<div style="font-size: 85%; line-height: 1.4;">
+
+### Reviewer
+<ul style="margin-top: 0; margin-bottom: 0;">
+  <li>ACM International Conference on Multimedia (ACM MM)</li>
+  <li>Neural Information Processing Systems (NeurIPS)</li>
+</ul>
+
+### Teaching Assistant
+<ul style="margin-top: 0; margin-bottom: 0;">
+  <li>Introduction to Deep Learning, Spring 2025</li>
+  <li>Advanced Computer Vision, Fall 2024</li>
+  <li>Computer Vision, Fall 2021</li>
+</ul>
+
 </div>
+
 
  
 
