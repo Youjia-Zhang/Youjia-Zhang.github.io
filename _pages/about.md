@@ -59,6 +59,16 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
   <li>Spatio-channel attention blocks for cross-modal crowd counting (Registration number C-2022-055027)</li>
 </ul>
 
+## 🏆 Honors & Awards
+<ul style="font-size: 88%; margin: 4px 0;">
+  <li>IEIE Encouraging Paper Award, 2024</li>
+  <li>SKKU Full Scholarship, 2024 – Present</li>
+  <li>Oral Presentation, ACCV 2022</li>
+  <li>2BK21 Excellent Research Award, Inha University, 2023</li>
+  <li>Global Vision Scholarship, Inha University, 2021 – 2023 </li>
+  <li>ff</li>
+</ul>
+
 ## 📚 Academic Activities
 
 <ul style="font-size: 88%; margin: 4px 0;">
@@ -81,7 +91,7 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
 
 <ul style="font-size: 88%; margin: 4px 0;">
   <li>2024–Present: Ph.D. Student, Department of Immersive Media Engineering, Sungkyunkwan University, advised by <a href="https://www.csehong.com/">Prof. Sungeun Hong</a></li>
-  <li>2021–2024: Ph.D. Student, Department of Information and Communication Engineering, Inha University, advised by <a href="https://www.csehong.com/">Prof. Sungeun Hong</a></li>
+  <li>2021–2024: Ph.D. Student, Department of Electrical and Computer Engineering, Inha University, advised by <a href="https://www.csehong.com/">Prof. Sungeun Hong</a></li>
   <li>2018–2021: M.S., School of Computer Science and Technology, CQUPT, advised by <a href="https://faculty.cqupt.edu.cn/zhangx/zh_CN/index.htm">Prof. Xu Zhang</a></li>
   <li>2014–2018: B.S., School of Mathematics and Statistics, Chongqing University of Posts and Telecommunications (CQUPT)</li>
 </ul>
