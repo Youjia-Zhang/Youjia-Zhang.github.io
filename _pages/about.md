@@ -51,29 +51,35 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
   </ul>
 
 ## 💡 Patents
-<ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
+<ul style="font-size: 88%; margin: 4px 0;">
   <li>Spatio-channel attention blocks for cross-modal crowd counting (Registration number C-2022-055027)</li>
-</ul>  
+</ul>
 
 ## 📚 Academic Activities
-  ### Reviewer
-  <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
-    <li>ACM International Conference on Multimedia (ACM MM)</li>
-    <li>Neural Information Processing Systems (NeurIPS)</li>
-  </ul>
-  
-  ### Teaching Assistant
-  <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
-    <li>Introduction to Deep Learning, Spring 2025</li>
-    <li>Advanced Computer Vision, Fall 2024</li>
-    <li>Computer Vision, Fall 2021</li>
-  </ul>
+
+<ul style="font-size: 88%; margin: 4px 0;">
+  <li><strong>Reviewer</strong>  
+    <ul style="margin: 4px 0;">
+      <li>ACM International Conference on Multimedia (ACM MM)</li>
+      <li>Neural Information Processing Systems (NeurIPS)</li>
+    </ul>
+  </li>
+  <li><strong>Teaching Assistant</strong>  
+    <ul style="margin: 4px 0;">
+      <li>Introduction to Deep Learning, Spring 2025</li>
+      <li>Advanced Computer Vision, Fall 2024</li>
+      <li>Computer Vision, Fall 2021</li>
+    </ul>
+  </li>
+</ul>
 
 ## 🎓 Education
-<ul style="font-size: 88%">
-  <li>2024 – Present: Ph.D. Student, Department of Immersive Media Engineering, Sungkyunkwan University, advised by <a href="https://www.csehong.com/">Prof. Sungeun Hong</a></li>
-  <li>2021 – 2024: Ph.D. Student, Department of Information and Communication Engineering, Inha University, advised by <a href="https://www.csehong.com/">Prof. Sungeun Hong</a></li>
-  <li>2018 – 2021: M.S., School of Computer Science and Technology, CQUPT, advised by <a href="https://faculty.cqupt.edu.cn/zhangx/zh_CN/index.htm">Prof. Xu Zhang</a></li>
-  <li>2014 – 2018: B.S., School of Mathematics and Statistics, Chongqing University of Posts and Telecommunications (CQUPT)</li>
+
+<ul style="font-size: 88%; margin: 4px 0;">
+  <li>2024–Present: Ph.D. Student, Department of Immersive Media Engineering, Sungkyunkwan University, advised by <a href="https://www.csehong.com/">Prof. Sungeun Hong</a></li>
+  <li>2021–2024: Ph.D. Student, Department of Information and Communication Engineering, Inha University, advised by <a href="https://www.csehong.com/">Prof. Sungeun Hong</a></li>
+  <li>2018–2021: M.S., School of Computer Science and Technology, CQUPT, advised by <a href="https://faculty.cqupt.edu.cn/zhangx/zh_CN/index.htm">Prof. Xu Zhang</a></li>
+  <li>2014–2018: B.S., School of Mathematics and Statistics, Chongqing University of Posts and Telecommunications (CQUPT)</li>
 </ul>
+
 
