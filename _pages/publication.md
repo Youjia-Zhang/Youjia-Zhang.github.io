@@ -11,7 +11,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 ## 📝 Conferences 
   - ### RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data, (under review)
     Yoorhim Cho*, Hongyeob Kim*, Semin Lee, **Youjia Zhang**, Yunseok Choi, Sungeun Hong
-     <span style="color:MediumBlue">**[arXiv] 2025**</span>  [[Project page]](https://aim-skku.github.io/RA-Touch/)
+    <span style="color:MediumBlue">**arXiv 2025**</span>  [[Project page]](https://aim-skku.github.io/RA-Touch/)
   - ### Question-Aware Gaussian Experts for Audio-Visual Question Answering
     Hongyeob Kim*, Inyoung Jung*, Dayoon Suh, **Youjia Zhang**, Sangmin Lee and Sungeun Hong   
    <span style="color:MediumBlue">**CVPR 2025 [Highlight]**</span>  [[Project page]](https://aim-skku.github.io/QA-TIGER/)
