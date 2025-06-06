@@ -17,7 +17,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
    <span style="color:MediumBlue">**ICMR 2023 [Oral]**</span>  [[Project page]](https://aim.skku.edu/publication/international-conference/ima_icmr23)
   - ### Spatio-channel attention blocks for cross-modal crowd counting
     **Youjia Zhang**, Soyun Choi, and Sungeun Hong   
-   <span style="color:MediumBlue">**ACCV 2022 [Oral]**</span>  [Project page]  [[Project page]](https://aim.skku.edu/publication/international-conference/csca_accv22)
+   <span style="color:MediumBlue">**ACCV 2022 [Oral]**</span> [[Project page]](https://aim.skku.edu/publication/international-conference/csca_accv22)
   - ### Multi-granularity Recurrent Attention Graph Neural Network for Few-Shot Learning  
     Xu Zhang, **Youjia Zhang**, Zuyu Zhang  
    <span style="color:MediumBlue">**MMM 2021**</span>  [[Link]](https://doi.org/10.1007/978-3-030-67835-7_13)
