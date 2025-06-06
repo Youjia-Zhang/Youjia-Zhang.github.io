@@ -1,3 +1,9 @@
+---
+title: "Publications"
+layout: single
+permalink: /publication/
+---
+
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=y3ypGaIAAAAJ&view_op).
 
 ## 📝 Conferences 
