@@ -42,17 +42,21 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
   - Spatio-channel attention blocks for cross-modal crowd counting (Registration number C-2022-055027)
 
 ## 📚 Academic Activities
-- ### Reviewer
-  - ACM International Conference on Multimedia (ACM MM) 
-  - Neural Information Processing Systems (NeurIPS)
-- ### Teaching Assistant  
-  - Introduction to Deep Learning, Spring 2025 
-  - Advanced Computer Vision, Fall 2024
-  - Computer Vision, Fall 2021
+<div style="font-size: 88%; line-height: 1.4;">
+### Reviewer
+- ACM International Conference on Multimedia (ACM MM)  
+- Neural Information Processing Systems (NeurIPS)  
+
+### Teaching Assistant  
+- Introduction to Deep Learning, Spring 2025  
+- Advanced Computer Vision, Fall 2024  
+- Computer Vision, Fall 2021  
+</div>
+
  
 
 ## 🎓 Education
-<ul style="font-size: 85%">
+<ul style="font-size: 88%">
   <li>2024 – Present: Ph.D. Student, Department of Immersive Media Engineering, Sungkyunkwan University, advised by <a href="https://www.csehong.com/">Prof. Sungeun Hong</a></li>
   <li>2021 – 2024: Ph.D. Student, Department of Information and Communication Engineering, Inha University, advised by <a href="https://www.csehong.com/">Prof. Sungeun Hong</a></li>
   <li>2018 – 2021: M.S., School of Computer Science and Technology, CQUPT, advised by <a href="https://faculty.cqupt.edu.cn/zhangx/zh_CN/index.htm">Prof. Xu Zhang</a></li>
