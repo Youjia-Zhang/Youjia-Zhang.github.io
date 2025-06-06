@@ -15,7 +15,7 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
 - *2023.06*: 🎉🎉 One paper is accepted to ICMR 2023 (Oral). 
 - *2022.12*: 🎉🎉 One paper is accepted to ACCV 2022 (Oral). 
 
-## 📝 Publications 
+## 📝 Selected Publications 
 - ### Question-Aware Gaussian Experts for Audio-Visual Question Answering
   Hongyeob Kim*, Inyoung Jung*, Dayoon Suh, **Youjia Zhang**, Sangmin Lee and Sungeun Hong   
  <span style="color:MediumBlue">**CVPR 2025 [Highlight]**</span>  [[Project page]](https://aim-skku.github.io/QA-TIGER/)
