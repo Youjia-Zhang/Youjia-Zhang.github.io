@@ -1,3 +1,6 @@
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=y3ypGaIAAAAJ&view_op).
+
+
 - ### Question-Aware Gaussian Experts for Audio-Visual Question Answering
   Hongyeob Kim*, Inyoung Jung*, Dayoon Suh, **Youjia Zhang**, Sangmin Lee and Sungeun Hong   
  <span style="color:MediumBlue">**CVPR 2025 [Highlight]**</span>  [[Project page]](https://aim-skku.github.io/QA-TIGER/)
