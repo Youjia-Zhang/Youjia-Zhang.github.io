@@ -31,10 +31,10 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
 
 
 ## 📂 Projects
-- ### RGB-X Path Networks for Multi-modal Multi-task Learning  (2023.03 ~ 2026.02)  
+- #### RGB-X Path Networks for Multi-modal Multi-task Learning  (2023.03 ~ 2026.02)  
   - Funded by National Research Foundation of Korea (NRF)  
   - Develop path networks for RGB-X data (e.g., depth, thermal, tactile, text) to enable efficient multi-modal fusion and knowledge transfer across tasks and environments, thereby supporting generalization and adaptability in complex real-world settings
-- ### Visuo-Tactile Perception for Human-Like Manipulation of Deformable Objects with Dynamic Center of Mass (2021.09 ~ 2023.08)
+- #### Visuo-Tactile Perception for Human-Like Manipulation of Deformable Objects with Dynamic Center of Mass (2021.09 ~ 2023.08)
   - Funded by Samsung Research Funding & Incubation Center for Future Technology
   - Develop core technologies for stable grasping and manipulation of soft, deformable objects through “visual-tactile fusion” and “visual-tactile perception” for robots to manipulate objects at the human level.
 
