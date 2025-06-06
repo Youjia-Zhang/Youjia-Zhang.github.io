@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 ---
 
-## 📚 Academic Activities
 - ### Reviewer
   - ACM International Conference on Multimedia (ACM MM) 
   - Neural Information Processing Systems (NeurIPS)
