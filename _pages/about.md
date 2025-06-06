@@ -52,7 +52,7 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
 
 ## 💡 Patents
 <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
-  <li>Spatio-channel attention blocks for cross-modal crowd counting (Registration number C-2022-055027)
+  <li>Spatio-channel attention blocks for cross-modal crowd counting (Registration number C-2022-055027)</li>
 </ul>  
 
 ## 📚 Academic Activities
