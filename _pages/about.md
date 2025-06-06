@@ -30,7 +30,7 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
  <span style="color:MediumBlue">**ACCV 2022 [Oral]**</span>  [Project page]  [[Project page]](https://aim.skku.edu/publication/international-conference/csca_accv22)
 
 
-## 🗂 Projects
+## 📂 Projects
 - ### RGB-X Path Networks for Multi-modal Multi-task Learning  (2023.03 ~ 2026.02)  
   - Funded by National Research Foundation of Korea (NRF)  
   - Develop path networks for RGB-X data (e.g., depth, thermal, tactile, text) to enable efficient multi-modal fusion and knowledge transfer across tasks and environments, thereby supporting generalization and adaptability in complex real-world settings
