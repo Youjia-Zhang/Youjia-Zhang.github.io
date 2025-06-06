@@ -43,13 +43,13 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
 
 ## 📚 Academic Activities
 ### Reviewer
-<ul style="margin-top: 0; margin-bottom: 0;">
+<ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
   <li>ACM International Conference on Multimedia (ACM MM)</li>
   <li>Neural Information Processing Systems (NeurIPS)</li>
 </ul>
 
 ### Teaching Assistant
-<ul style="margin-top: 0; margin-bottom: 0;">
+<ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
   <li>Introduction to Deep Learning, Spring 2025</li>
   <li>Advanced Computer Vision, Fall 2024</li>
   <li>Computer Vision, Fall 2021</li>
