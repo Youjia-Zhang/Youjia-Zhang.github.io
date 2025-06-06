@@ -17,8 +17,10 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
 
 ## 📝 Selected Publications 
 - ### Question-Aware Gaussian Experts for Audio-Visual Question Answering
-    Hongyeob Kim*, Inyoung Jung*, Dayoon Suh, **Youjia Zhang**, Sangmin Lee and Sungeun Hong</li>
-    <span style="color:MediumBlue">**CVPR 2025 [Highlight]**</span>  [[Project page]](https://aim-skku.github.io/QA-TIGER/)
+  <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
+    <li>Hongyeob Kim*, Inyoung Jung*, Dayoon Suh, **Youjia Zhang**, Sangmin Lee and Sungeun Hong</li>
+    <li><span style="color:MediumBlue">**CVPR 2025 [Highlight]**</span>  [[Project page]](https://aim-skku.github.io/QA-TIGER/)
+  </ul> 
   
 - ### Memory-Efficient Cross-Modal Attention for RGB-X Segmentation and Crowd Counting
   <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
