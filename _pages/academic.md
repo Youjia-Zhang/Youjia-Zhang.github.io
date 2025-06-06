@@ -6,14 +6,10 @@ author_profile: true
 ---
 
 - ### Teaching Assistant  
-- **Graduate Courses**  
-  - Advanced Computer Vision, Fall 2024 — Sungkyunkwan University
-  - Computer Vision, Fall 2021 — Inha University   
+  - Introduction to Deep Learning, Undergraduate Course, Sungkyunkwan University, Spring 2025  
+  - Advanced Computer Vision, Graduate Course, Sungkyunkwan University, Fall 2024  
+  - Computer Vision, Graduate Course, Inha University, Fall 2021  
 
-- **Undergraduate Courses**  
-  - Introduction to Deep Learning, Spring 2025 — Sungkyunkwan University
-
-    
 - ### Reviewer
   - ACM International Conference on Multimedia (ACM MM) 
   - Neural Information Processing Systems (NeurIPS)
