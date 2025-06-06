@@ -21,23 +21,21 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
     <li>Hongyeob Kim*, Inyoung Jung*, Dayoon Suh, <strong>Youjia Zhang</strong>, Sangmin Lee and Sungeun Hong</li>
     <li><span style="color: #0000CD; font-weight: bold;">CVPR 2025 [Highlight]</span>  <a href="https://aim-skku.github.io/QA-TIGER/">[Project page]</a></li>
   </ul>
-  
 - ### Memory-Efficient Cross-Modal Attention for RGB-X Segmentation and Crowd Counting
   <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
-    <li>**Youjia Zhang**, Soyun Choi, and Sungeun Hong   
-    <li><span style="color:MediumBlue">**Pattern Recognition 2025[Q1]**</span>  [[DOI]](https://aim.skku.edu/publication/international-journal)
-  </ul>   
+    <li><strong>Youjia Zhang</strong>, Soyun Choi, and Sungeun Hong</li>
+    <li><span style="color: #0000CD; font-weight: bold;">Pattern Recognition 2025 [Q1]</span> <a href="https://aim.skku.edu/publication/international-journal">[DOI]</a></li>
+  </ul>
 - ### Intra-inter modal attention blocks for RGB-D semantic segmentation
   <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
-    <li>Soyun Choi, **Youjia Zhan**g and Sungeun Hong
-    <li><span style="color:MediumBlue">**ICMR 2023 [Oral]**</span>  [[Project page]](https://aim.skku.edu/publication/international-conference/ima_icmr23)
-  </ul>   
+    <li>Soyun Choi, <strong>Youjia Zhang</strong>, and Sungeun Hong</li>
+    <li><span style="color: #0000CD; font-weight: bold;">ICMR 2023 [Oral]</span> <a href="https://aim.skku.edu/publication/international-conference/ima_icmr23">[Project page]</a></li>
+  </ul>
 - ### Spatio-channel attention blocks for cross-modal crowd counting
   <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
-    <li>**Youjia Zhang**, Soyun Choi, and Sungeun Hong   
-    <li><span style="color:MediumBlue">**ACCV 2022 [Oral]**</span>  [Project page]  [[Project page]](https://aim.skku.edu/publication/international-conference/csca_accv22)
-  </ul>   
-
+    <li><strong>Youjia Zhang</strong>, Soyun Choi, and Sungeun Hong</li>
+    <li><span style="color: #0000CD; font-weight: bold;">ACCV 2022 [Oral]</span> <a href="https://aim.skku.edu/publication/international-conference/csca_accv22">[Project page]</a></li>
+  </ul>
 
 ## 📂 Projects
 - ### RGB-X Path Networks for Multi-modal Multi-task Learning  (2023.03 ~ 2026.02)
