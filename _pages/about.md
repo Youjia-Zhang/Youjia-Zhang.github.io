@@ -43,6 +43,7 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
 
 ## 📚 Academic Activities
 <div style="font-size: 88%; line-height: 1.4;">
+  
 ### Reviewer
 - ACM International Conference on Multimedia (ACM MM)  
 - Neural Information Processing Systems (NeurIPS)  
