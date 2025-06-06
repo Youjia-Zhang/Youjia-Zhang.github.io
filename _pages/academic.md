@@ -6,9 +6,13 @@ author_profile: true
 ---
 
 - ### Teaching Assistant  
-  - Introduction to Deep Learning, Spring 2025 
-  - Advanced Computer Vision, Fall 2024
-  - Computer Vision, Fall 2021
+- **Graduate Courses**  
+  - Advanced Computer Vision, Fall 2024 — Sungkyunkwan University
+  - Computer Vision, Fall 2021 — Inha University   
+
+- **Undergraduate Courses**  
+  - Introduction to Deep Learning, Spring 2025 — Sungkyunkwan University
+
     
 - ### Reviewer
   - ACM International Conference on Multimedia (ACM MM) 
