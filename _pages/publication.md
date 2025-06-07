@@ -11,7 +11,6 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 ## 📝 Conferences 
 
 <img style="float: left; margin: 15px 10px 0px 0px; width: 300px; height: auto;" src="/images/papers/RA-Touch.png">
-
 <div style="overflow: hidden;">
   <h3 style="margin-top: 0; margin-bottom: 6px;">
     RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data 
