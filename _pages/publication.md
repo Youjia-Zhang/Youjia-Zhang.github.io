@@ -47,5 +47,3 @@ arXiv 2025<br />
     <span style="color:MediumBlue">**Neurocomputing 2022[Q1]**</span>  [[DOI]](https://doi.org/10.1016/j.neucom.2021.09.070)
 
 
-
-
