@@ -66,7 +66,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 <div style="overflow: hidden;">
   <h3 style="margin-top: 0; margin-bottom: 6px;">
-    Spatio-Channel Attention Blocks for Cross-Modal Crowd Counting
+    Spatio-channel Attention Blocks for Cross-modal Crowd Counting
     <a href="https://aim.skku.edu/publication/international-conference/csca_accv22" target="_blank" style="font-size: 16px; color: #1a73e8;">[Project page]</a>
   </h3>
 
@@ -84,7 +84,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 <div style="overflow: hidden;">
   <h3 style="margin-top: 0; margin-bottom: 6px;">
-    Multi-Granularity Recurrent Attention Graph Neural Network for Few-Shot Learning
+    Multi-granularity Recurrent Attention Graph Neural Network for Few-Shot Learning
     <a href="https://doi.org/10.1007/978-3-030-67835-7_13" target="_blank" style="font-size: 16px; color: #1a73e8;">[PDF]</a>
   </h3>
 
