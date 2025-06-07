@@ -9,7 +9,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=y3ypGaIAAAAJ&view_op).
 
 ## 📝 Conferences 
-<img src="images/papers/RA-Touch.jpg" width="160" style="float:left; margin-right:15px;">
+<img src="images/papers/RA-Touch.png" width="160" style="float:left; margin-right:15px;">
 
 **RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data** [[Project page]](https://aim-skku.github.io/RA-Touch/)
 
