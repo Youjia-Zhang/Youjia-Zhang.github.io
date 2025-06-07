@@ -19,19 +19,21 @@ arXiv 2025<br />
 </font>
 </p>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/papers/RA-Touch.png" style="width: 160px; height: auto; margin-right: 20px;">
+<img style="float: left; margin: 15px 10px 0px 0px; width: 160px; height: auto;" src="/images/papers/RA-Touch.png">
 
-  <div style="line-height: 1.6; font-size: 14px;">
-    <strong style="font-size: 16px;">
-      RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data
-    </strong>
-    [<a href="https://aim-skku.github.io/RA-Touch/" target="_blank">Project page</a>]<br>
+<div style="overflow: hidden;">
+  <h3 style="margin-top: 0; margin-bottom: 6px;">
+    RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data 
+    <a href="https://aim-skku.github.io/RA-Touch/" target="_blank" style="font-size: 16px; color: #1a73e8;">[Project page]</a>
+  </h3>
 
-    Yoorhim Cho*, Hongyeob Kim*, Semin Lee, <strong>Youjia Zhang</strong>, Yunseok Choi, Sungeun Hong<br>
+  <p style="line-height: 1.6; font-size: 14px; margin: 0;">
+    Yoorhim Cho*, Hongyeob Kim*, Semin Lee, <strong>Youjia Zhang</strong>, Yunseok Choi, Sungeun Hong  
+    <br>
     <span style="color: gray;">arXiv 2025</span>
-  </div>
+  </p>
 </div>
+
 
 
 
