@@ -44,7 +44,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 <br style="clear: both;" />
 
-<img style="float: left; margin: 15px 10px 0px 0px; width: 200px; height: auto;" src="/images/papers/ICMR23.png" alt="ICMR RGB-D">
+<img style="float: left; margin: 15px 10px 0px 0px; width: 200px; height: 150;" src="/images/papers/ICMR23.png" alt="ICMR RGB-D">
 
 <div style="overflow: hidden;">
   <h3 style="margin-top: 0; margin-bottom: 6px;">
