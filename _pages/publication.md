@@ -44,7 +44,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 <br style="clear: both;" />
 
-<img style="float: left; margin: 15px 10px 0px 0px; width: 200px; height: 100px;" src="/images/papers/ICMR23.png" alt="ICMR RGB-D">
+<img style="display: flex; align-items: center; margin: 15px 10px 0px 0px; width: 200px; height: 100px;" src="/images/papers/ICMR23.png" alt="ICMR RGB-D">
 
 <div style="overflow: hidden;">
   <h3 style="margin-top: 0; margin-bottom: 6px;">
@@ -57,26 +57,6 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
     <br>
     <span style="color: gray;">International Conference on Multimedia Retrieval (ICMR) 2023 <strong>[Oral]</strong></span>
   </p>
-</div>
-
-
-<br style="clear: both;" />
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/papers/ICMR23.png" alt="ICMR RGB-D"
-       style="width: 200px; height: 100px; margin-right: 15px;">
-
-  <div>
-    <h3 style="margin-top: 0; margin-bottom: 6px;">
-      Intra-inter Modal Attention Blocks for RGB-D Semantic Segmentation
-      <a href="https://aim.skku.edu/publication/international-conference/ima_icmr23" target="_blank" style="font-size: 16px; color: #1a73e8;">[Project page]</a>
-    </h3>
-    <p style="line-height: 1.6; font-size: 14px; margin: 0;">
-      Soyun Choi, <strong>Youjia Zhang</strong> and Sungeun Hong  
-      <br>
-      <span style="color: gray;">International Conference on Multimedia Retrieval (ICMR) 2023 <strong>[Oral]</strong></span>
-    </p>
-  </div>
 </div>
 
 
