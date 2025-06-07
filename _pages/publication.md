@@ -63,17 +63,13 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 <br style="clear: both;" />
 
 
-<div style="display: flex; align-items: center; margin-top: 15px; margin-bottom: 20px;">
-  <img src="/images/papers/ICMR23.png"
-       alt="ICMR RGB-D"
-       style="width: 200px; height: 100px; margin-right: 10px;">
+<div style="display: flex; align-items: center; margin-top: 15px; margin-bottom: 10px;">
+  <img src="/images/papers/ICMR23.png" alt="ICMR RGB-D" style="width: 230px; height: 100px; margin-right: 10px;">
 
   <div>
     <h3 style="margin-top: 0; margin-bottom: 6px;">
       Intra-inter Modal Attention Blocks for RGB-D Semantic Segmentation
-      <a href="https://aim.skku.edu/publication/international-conference/ima_icmr23"
-         target="_blank"
-         style="font-size: 16px; color: #1a73e8;">[Project page]</a>
+      <a href="https://aim.skku.edu/publication/international-conference/ima_icmr23" target="_blank" style="font-size: 16px; color: #1a73e8;">[Project page]</a>
     </h3>
 
     <p style="line-height: 1.6; font-size: 14px; margin: 0;">
