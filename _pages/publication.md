@@ -27,7 +27,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 <br style="clear: both;" />
 
-<img style="float: left; margin: 15px 10px 0px 0px; width: 200px; height: auto;" src="/images/papers/ICMR.png" alt="QA-TIGER">
+<img style="float: left; margin: 15px 10px 0px 0px; width: 200px; height: auto;" src="/images/papers/QA-TIGERC.png" alt="QA-TIGER">
 
 <div style="overflow: hidden;">
   <h3 style="margin-top: 0; margin-bottom: 6px;">
@@ -44,7 +44,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 <br style="clear: both;" />
 
-<img style="float: left; margin: 15px 10px 0px 0px; width: 200px; height: 100px;" src="/images/papers/QA-TIGER.png" alt="QA-TIGER">
+<img style="float: left; margin: 15px 10px 0px 0px; width: 200px; height: 100px;" src="/images/papers/ICMR.png" alt="QA-TIGER">
 
 <div style="overflow: hidden;">
   <h3 style="margin-top: 0; margin-bottom: 6px;">
