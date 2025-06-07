@@ -9,13 +9,15 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=y3ypGaIAAAAJ&view_op).
 
 ## 📝 Conferences 
-<img src="images/papers/RA-Touch.png" width="160" style="float:left; margin-right:15px;">
-
-**RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data** [[Project page]](https://aim-skku.github.io/RA-Touch/)
-
-Yoorhim Cho*, Hongyeob Kim*, Semin Lee, **Youjia Zhang**, Yunseok Choi, Sungeun Hong  
-<span style="color:gray">arXiv 2025 (under review)</span>
-<br clear="all" />
+<img style="float: left; margin:15px 10px" src="/images/papers/RA-Touch.png" width="160" height="140">
+### RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data
+<p style="line-height:1.0">
+<font size="2">
+Yoorhim Cho*, Hongyeob Kim*, Semin Lee, <strong>Youjia Zhang</strong>, Yunseok Choi, Sungeun Hong<br />
+<span style="color:MediumBlue">**arXiv 2025**</span>  [[Project page]](https://aim-skku.github.io/RA-Touch/)<br />
+<br>
+</font>
+</p>
 
   - ### RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data, (under review)
     Yoorhim Cho*, Hongyeob Kim*, Semin Lee, **Youjia Zhang**, Yunseok Choi, Sungeun Hong  
@@ -43,4 +45,7 @@ Yoorhim Cho*, Hongyeob Kim*, Semin Lee, **Youjia Zhang**, Yunseok Choi, Sungeun 
   - ### Discriminative learning of imaginary data for few-shot classification  
     Xu Zhang, **Youjia Zhang**, Zuyu Zhang, Jinzhuo Liu  
     <span style="color:MediumBlue">**Neurocomputing 2022[Q1]**</span>  [[DOI]](https://doi.org/10.1016/j.neucom.2021.09.070)
+
+
+
 
