@@ -9,6 +9,14 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=y3ypGaIAAAAJ&view_op).
 
 ## 📝 Conferences 
+<img src="images/ra-touch-thumbnail.png" width="160" style="float:left; margin-right:15px;">
+
+**RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data** [[Project page]](https://aim-skku.github.io/RA-Touch/)
+
+Yoorhim Cho*, Hongyeob Kim*, Semin Lee, **Youjia Zhang**, Yunseok Choi, Sungeun Hong  
+<span style="color:gray">arXiv 2025 (under review)</span>
+<br clear="all" />
+
   - ### RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data, (under review)
     Yoorhim Cho*, Hongyeob Kim*, Semin Lee, **Youjia Zhang**, Yunseok Choi, Sungeun Hong  
    <span style="color:MediumBlue">**arXiv 2025**</span>  [[Project page]](https://aim-skku.github.io/RA-Touch/)
