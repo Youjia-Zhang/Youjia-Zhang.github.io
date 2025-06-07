@@ -25,6 +25,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
   </p>
 </div>
 
+<br style="clear: both;" />
+
 <img style="float: left; margin: 15px 10px 0px 0px; width: 200px; height: auto;" src="/images/papers/QA-TIGER.png" alt="QA-TIGER">
 
 <div style="overflow: hidden;">
@@ -40,6 +42,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
   </p>
 </div>
 
+<br style="clear: both;" />
 
 <img style="float: left; margin: 15px 10px 0px 0px; width: 200px; height: auto;" src="/images/papers/ICMR23.png" alt="ICMR RGB-D">
 
@@ -57,6 +60,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 </div>
 
 
+<br style="clear: both;" />
 
 <img style="float: left; margin: 15px 10px 0px 0px; width: 200px; height: auto;" src="/images/papers/ACCV22.png" alt="ACCV Crowd Counting">
 
@@ -73,6 +77,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
   </p>
 </div>
 
+<br style="clear: both;" />
 
 
 <img style="float: left; margin: 15px 10px 0px 0px; width: 200px; height: auto;" src="/images/papers/MMM21.png" alt="MMM Few-Shot">
@@ -126,6 +131,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
   </p>
 </div>
 
+<br style="clear: both;" />
+
 <img style="float: left; margin: 15px 10px 0px 0px; width: 200px; height: auto;" src="/images/papers/EEG23.png" alt="CAAI Transactions on Intelligence Technology 2023">
 
 <div style="overflow: hidden;">
@@ -140,6 +147,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
     <span style="color: gray;">CAAI Transactions on Intelligence Technology 2023 [Q1]</span>
   </p>
 </div>
+
+<br style="clear: both;" />
+
 
 <img style="float: left; margin: 15px 10px 0px 0px; width: 200px; height: auto;" src="/images/papers/Neurocomputing22.png" alt="Neurocomputing 2022">
 
