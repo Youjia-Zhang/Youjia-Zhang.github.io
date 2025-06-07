@@ -19,6 +19,20 @@ arXiv 2025<br />
 </font>
 </p>
 
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="images/papers/RA-Touch.png" style="width: 140px; height: auto; margin-right: 20px;">
+
+  <div>
+    <strong>RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data</strong> 
+    [<a href="https://aim-skku.github.io/RA-Touch/">Project page</a>]<br><br>
+
+    Yoorhim Cho*, Hongyeob Kim*, Semin Lee, <strong>Youjia Zhang</strong>, Yunseok Choi, Sungeun Hong<br>
+    <span style="color: gray;">arXiv 2025 (under review)</span>
+  </div>
+</div>
+
+
   - ### RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data, (under review)
     Yoorhim Cho*, Hongyeob Kim*, Semin Lee, **Youjia Zhang**, Yunseok Choi, Sungeun Hong  
    <span style="color:MediumBlue">**arXiv 2025**</span>  [[Project page]](https://aim-skku.github.io/RA-Touch/)
