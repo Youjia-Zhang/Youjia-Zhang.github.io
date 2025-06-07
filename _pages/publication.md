@@ -10,11 +10,11 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## 📝 Conferences 
 <img style="float: left; margin:15px 10px" src="/images/papers/RA-Touch.png" width="160" height="140">
-### RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data
-<p style="line-height:1.0">
+### RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data [[Project page]](https://aim-skku.github.io/RA-Touch/)
+<p style="line-height:2.0">
 <font size="2">
 Yoorhim Cho*, Hongyeob Kim*, Semin Lee, <strong>Youjia Zhang</strong>, Yunseok Choi, Sungeun Hong<br />
-<span style="color:MediumBlue">**arXiv 2025**</span>  [[Project page]](https://aim-skku.github.io/RA-Touch/)<br />
+arXiv 2025<br />
 <br>
 </font>
 </p>
