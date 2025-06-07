@@ -5,10 +5,10 @@ layout: single
 author_profile: true
 ---
 
-- ### Teaching Assistant  
-  - Introduction to Deep Learning, Undergraduate Course, Sungkyunkwan University, Spring 2025  
-  - Advanced Computer Vision, Graduate Course, Sungkyunkwan University, Fall 2024  
-  - Computer Vision, Graduate Course, Inha University, Fall 2021  
+- ### Teaching  
+  - [Programming Lecturer & TA] Introduction to Deep Learning, Undergraduate Course, Sungkyunkwan University, Spring 2025  
+  - [LLMs/LVMs and Prompting Lecturer & TA] Advanced Computer Vision, Graduate Course, Sungkyunkwan University, Fall 2024  
+  - [TA] Computer Vision, Graduate Course, Inha University, Fall 2021  
 
 - ### Reviewer
   - ACM International Conference on Multimedia (ACM MM) 
