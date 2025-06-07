@@ -10,7 +10,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## 📝 Conferences 
 
-<img style="float: left; margin: 15px 10px 0px 0px; width: 160px; height: auto;" src="/images/papers/RA-Touch.png">
+<img style="float: left; margin: 15px 10px 0px 0px; width: 120px; height: auto;" src="/images/papers/RA-Touch.png">
 <div style="overflow: hidden;">
   <h3 style="margin-top: 0; margin-bottom: 6px;">
     RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data 
@@ -24,7 +24,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
   </p>
 </div>
 
-<img style="float: left; margin: 15px 10px 0px 0px; width: 160px; height: auto;" src="/images/papers/QA-TIGER.png" alt="QA-TIGER">
+<img style="float: left; margin: 15px 10px 0px 0px; width: 120px; height: auto;" src="/images/papers/QA-TIGER.png" alt="QA-TIGER">
 
 <div style="overflow: hidden;">
   <h3 style="margin-top: 0; margin-bottom: 6px;">
@@ -35,12 +35,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
   <p style="line-height: 1.6; font-size: 14px; margin: 0;">
     Hongyeob Kim*, Inyoung Jung*, Dayoon Suh, <strong>Youjia Zhang</strong>, Sangmin Lee and Sungeun Hong  
     <br>
-    <span style="color: gray;">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025 [Highlight]</span>
+    <span style="color: gray;">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025 <strong>[Highlight]</strong></span>
   </p>
 </div>
-
-
-
 
 
   - ### RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data, (under review)
@@ -69,5 +66,3 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
   - ### Discriminative learning of imaginary data for few-shot classification  
     Xu Zhang, **Youjia Zhang**, Zuyu Zhang, Jinzhuo Liu  
     <span style="color:MediumBlue">**Neurocomputing 2022[Q1]**</span>  [[DOI]](https://doi.org/10.1016/j.neucom.2021.09.070)
-
-
