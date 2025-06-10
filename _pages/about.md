@@ -10,7 +10,7 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
 
 
 ## 🔥 News
-- *2025.04*: 🎉🎉 One paper is accepted to IJCV 2025 ((Q1, JCR Top 3%, IF 11.6).
+- *2025.04*: 🎉🎉 One paper is accepted to IJCV 2025 (Q1, JCR Top 3%, IF 11.6).
 - *2025.04*: 🎉🎉 One paper is accepted to CVPR 2025 (Highlight).
 - *2025.01*: 🎉🎉 One paper is accepted to Pattern Recognition (Q1, JCR: Top 6.9%).
 - *2023.06*: 🎉🎉 One paper is accepted to ICMR 2023 (Oral). 
