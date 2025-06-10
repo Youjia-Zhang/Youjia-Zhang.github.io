@@ -109,7 +109,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
   <p style="line-height: 1.6; font-size: 14px; margin: 0;">
     <strong>Youjia Zhang</strong>, Huiling Liu, Youngeun Kim and Sungeun Hong 
     <br>
-    <span style="color: gray;">IJCV 2025 [Q1, JCR Top 3%, IF 11.6]</span>
+    <span style="color: gray;">International Journal of Computer Vision (IJCV) 2025 [Q1, JCR Top 3%, IF 11.6]</span>
   </p>
 </div>
 
