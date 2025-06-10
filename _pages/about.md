@@ -10,12 +10,19 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
 
 
 ## 🔥 News
+- *2025.04*: 🎉🎉 One paper is accepted to IJCV 2025 ((Q1, JCR Top 3%, IF 11.6).
 - *2025.04*: 🎉🎉 One paper is accepted to CVPR 2025 (Highlight).
 - *2025.01*: 🎉🎉 One paper is accepted to Pattern Recognition (Q1, JCR: Top 6.9%).
 - *2023.06*: 🎉🎉 One paper is accepted to ICMR 2023 (Oral). 
 - *2022.12*: 🎉🎉 One paper is accepted to ACCV 2022 (Oral). 
 
 ## 📝 Selected Publications 
+- ### CAT-TPT: Class-Agnostic Text-based Test-time Prompt Tuning for Vision-Language Models
+  <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
+    <li><strong>Youjia Zhang</strong>, Huiling Liu, Youngeun Kim and Sungeun Hong</li>
+    <li><span style="color: #0000CD; font-weight: bold;">IJCV 2025 [Q1, JCR Top 3%, IF 11.6)]</span>  [Project page]</li>
+  </ul>
+  
 - ### Question-Aware Gaussian Experts for Audio-Visual Question Answering
   <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
     <li>Hongyeob Kim*, Inyoung Jung*, Dayoon Suh, <strong>Youjia Zhang</strong>, Sangmin Lee and Sungeun Hong</li>
