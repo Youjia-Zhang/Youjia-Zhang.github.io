@@ -98,6 +98,25 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## 📘 Journals
 
+<img style="float: left; margin: 15px 10px 0px 0px; width: 200px; height: 100px;" src="/images/papers/IJCV25.png" alt="IJCV 2025">
+
+<div style="overflow: hidden;">
+  <h3 style="margin-top: 0; margin-bottom: 6px;">
+    CAT-TPT: Class-Agnostic Text-based Test-time Prompt Tuning for Vision-Language Models
+    [DOI]
+  </h3>
+
+  <p style="line-height: 1.6; font-size: 14px; margin: 0;">
+    <strong>Youjia Zhang</strong>, Huiling Liu, Youngeun Kim and Sungeun Hong 
+    <br>
+    <span style="color: gray;">IJCV 2025 [Q1, JCR Top 3%, IF 11.6]</span>
+  </p>
+</div>
+
+
+  
+<br style="clear: both;" />
+
 <img style="float: left; margin: 15px 10px 0px 0px; width: 200px; height: 100px;" src="/images/papers/CSCA25.png" alt="Pattern Recognition 2025">
 
 <div style="overflow: hidden;">
@@ -109,7 +128,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
   <p style="line-height: 1.6; font-size: 14px; margin: 0;">
     <strong>Youjia Zhang</strong>, Soyun Choi, and Sungeun Hong  
     <br>
-    <span style="color: gray;">Pattern Recognition 2025 [Q1]</span>
+    <span style="color: gray;">Pattern Recognition 2025 [Q1, JCR: Top 6.9%]</span>
   </p>
 </div>
 
