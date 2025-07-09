@@ -10,13 +10,20 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
 
 
 ## 🔥 News
+- *2025.07*: 🎉🎉 One paper is accepted to ACM MM 2025.
 - *2025.06*: 🎉🎉 One paper is accepted to IJCV 2025 (Q1, JCR Top 3%, IF 11.6).
 - *2025.04*: 🎉🎉 One paper is accepted to CVPR 2025 (Highlight).
 - *2025.01*: 🎉🎉 One paper is accepted to Pattern Recognition (Q1, JCR: Top 6.9%).
 - *2023.06*: 🎉🎉 One paper is accepted to ICMR 2023 (Oral). 
 - *2022.12*: 🎉🎉 One paper is accepted to ACCV 2022 (Oral). 
 
-## 📝 Selected Publications 
+## 📝 Selected Publications
+- ### RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data
+  <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
+    <li>Yoorhim Cho*, Hongyeob Kim*, Semin Kim, <strong>Youjia Zhang</strong>, Yunseok Choi and Sungeun Hong</li>
+    <li><span style="color: #0000CD; font-weight: bold;">ACM MM 2025</span>  <a href="https://aim-skku.github.io/RA-Touch/">[Project page]</a></li>
+  </ul>
+  
 - ### CAT-TPT: Class-Agnostic Text-based Test-time Prompt Tuning for Vision-Language Models
   <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
     <li><strong>Youjia Zhang</strong>, Huiling Liu, Youngeun Kim and Sungeun Hong</li>
@@ -33,12 +40,6 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
   <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
     <li><strong>Youjia Zhang</strong>, Soyun Choi, and Sungeun Hong</li>
     <li><span style="color: #0000CD; font-weight: bold;">Pattern Recognition 2025 [Q1]</span> <a href="https://aim.skku.edu/publication/international-journal">[DOI]</a></li>
-  </ul>
-
-- ### Intra-inter modal attention blocks for RGB-D semantic segmentation
-  <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
-    <li>Soyun Choi, <strong>Youjia Zhang</strong>, and Sungeun Hong</li>
-    <li><span style="color: #0000CD; font-weight: bold;">ICMR 2023 [Oral]</span> <a href="https://aim.skku.edu/publication/international-conference/ima_icmr23">[Project page]</a></li>
   </ul>
 
 - ### Spatio-channel attention blocks for cross-modal crowd counting
