@@ -21,7 +21,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
   <p style="line-height: 1.6; font-size: 14px; margin: 0;">
     Yoorhim Cho*, Hongyeob Kim*, Semin Lee, <strong>Youjia Zhang</strong>, Yunseok Choi, Sungeun Hong  
     <br>
-    <span style="color: gray;">ACM MM 2025</span>
+    <span style="color: gray;">ACM Multimedia (MM) 2025</span>
   </p>
 </div>
 
