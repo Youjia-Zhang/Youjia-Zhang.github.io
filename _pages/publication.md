@@ -103,7 +103,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 <div style="overflow: hidden;">
   <h3 style="margin-top: 0; margin-bottom: 6px;">
     CAT-TPT: Class-Agnostic Text-based Test-time Prompt Tuning for Vision-Language Models
-    [DOI]
+    <a href="https://doi.org/10.1007/s11263-025-02508-1" target="_blank" style="font-size: 16px; color: #1a73e8;">[DOI]</a>
   </h3>
 
   <p style="line-height: 1.6; font-size: 14px; margin: 0;">
