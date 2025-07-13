@@ -27,7 +27,8 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
 - ### CAT-TPT: Class-Agnostic Text-based Test-time Prompt Tuning for Vision-Language Models
   <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
     <li><strong>Youjia Zhang</strong>, Huiling Liu, Youngeun Kim and Sungeun Hong</li>
-    <li><span style="color: #0000CD; font-weight: bold;">IJCV 2025 [Q1, JCR Top 3%, IF 11.6)]</span>  [Project page]</li>
+    <li><span style="color: #0000CD; font-weight: bold;">IJCV 2025 [Q1, JCR Top 3%, IF 11.6)]</span> <a href="https://doi.org/10.1007/s11263-025-02508-1">[DOI]
+    </a></li>
   </ul>
   
 - ### Question-Aware Gaussian Experts for Audio-Visual Question Answering
