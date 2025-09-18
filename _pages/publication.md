@@ -14,6 +14,23 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 <div style="overflow: hidden;">
   <h3 style="margin-top: 0; margin-bottom: 6px;">
+    Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment
+    <a href="https://aim-skku.github.io/ADAPT" target="_blank" style="font-size: 16px; color: #1a73e8;">[Project page]</a>
+  </h3>
+
+  <p style="line-height: 1.6; font-size: 14px; margin: 0;">
+    <strong>Youjia Zhang</strong>, Youngeun Kim, Young-Geun Choi, Hongyeob Kim, Huiling Liu, Sungeun Hong  
+    <br>
+    <span style="color: gray;">NeurIPS 2025</span>
+  </p>
+</div>
+
+<br style="clear: both;" />
+
+<img style="float: left; margin: 15px 10px 0px 0px; width: 200px; height: auto;" src="/images/papers/RA-Touch.png">
+
+<div style="overflow: hidden;">
+  <h3 style="margin-top: 0; margin-bottom: 6px;">
     RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data 
     <a href="https://aim-skku.github.io/RA-Touch/" target="_blank" style="font-size: 16px; color: #1a73e8;">[Project page]</a>
   </h3>
