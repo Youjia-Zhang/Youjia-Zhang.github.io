@@ -10,6 +10,7 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
 
 
 ## 🔥 News
+- *2025.09*: 🎉🎉 One paper is accepted to NeurIPS 2025.
 - *2025.07*: 🎉🎉 One paper is accepted to ACM MM 2025.
 - *2025.06*: 🎉🎉 One paper is accepted to IJCV 2025 (Q1, JCR Top 3%, IF 11.6).
 - *2025.04*: 🎉🎉 One paper is accepted to CVPR 2025 (Highlight).
@@ -18,6 +19,11 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
 - *2022.12*: 🎉🎉 One paper is accepted to ACCV 2022 (Oral). 
 
 ## 📝 Selected Publications
+- ### Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment
+  <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
+    <li><strong>Youjia Zhang</strong>, Youngeun Kim, Young-Geun Choi, Hongyeob Kim, Huiling Liu and Sungeun Hong</li>
+    <li><span style="color: #0000CD; font-weight: bold;">NeurIPS 2025</span>  <a href="https://aim-skku.github.io/ADAPT/">[Project page]</a></li>
+  </ul>
 - ### RA-Touch: Retrieval-Augmented Touch Understanding with Enriched Visual Data
   <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
     <li>Yoorhim Cho*, Hongyeob Kim*, Semin Kim, <strong>Youjia Zhang</strong>, Yunseok Choi and Sungeun Hong</li>
