@@ -63,11 +63,13 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
     <li>Develop path networks for RGB-X data (e.g., depth, thermal, tactile, text) to enable efficient multi-modal fusion and knowledge transfer across tasks and environments, thereby supporting generalization and adaptability in complex real-world settings</li>
   </ul> 
 
+<!--先注释掉这个项目
 - ### Visuo-Tactile Perception for Human-Like Manipulation of Deformable Objects with Dynamic Center of Mass (2021.09 ~ 2023.08)
   <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
     <li>Funded by Samsung Research Funding & Incubation Center for Future Technology</li>
     <li>Develop core technologies for stable grasping and manipulation of soft, deformable objects through “visual-tactile fusion” and “visual-tactile perception” for robots to manipulate objects at the human level.</li>
   </ul>
+-->
 
 ## 💡 Patents
 <ul style="font-size: 88%; margin: 4px 0;">
