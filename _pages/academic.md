@@ -5,7 +5,8 @@ layout: single
 author_profile: true
 ---
 
-- ### Teaching  
+- ### Teaching
+  - **[TA]** Advanced Computer Vision, Graduate Course, Sungkyunkwan University, Fall 2025  
   - **[Programming Lecturer & TA]** Introduction to Deep Learning, Undergraduate Course, Sungkyunkwan University, Spring 2025  
   - **[LLMs/LVMs and Prompting Lecturer & TA]** Advanced Computer Vision, Graduate Course, Sungkyunkwan University, Fall 2024  
   - **[TA]** Computer Vision, Graduate Course, Inha University, Fall 2021  
