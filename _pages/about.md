@@ -78,8 +78,8 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
 
 ## 🏆 Honors & Awards
 <ul style="font-size: 88%; margin: 4px 0;">
+  <li>SKKU STEM Full Scholarship, 2024 – Present</li>
   <li>IEIE Encouraging Paper Award, 2024</li>
-  <li>SKKU Full Scholarship, 2024 – Present</li>
   <li>Oral Presentation, ACCV 2022</li>
   <li>2BK21 Excellent Research Award, Inha University, 2023</li>
   <li>Global Vision Scholarship, Inha University, 2021 – 2023 </li>
