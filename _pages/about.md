@@ -97,9 +97,10 @@ I am a third year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, a
   </li>
   <li><strong>Teaching Assistant</strong>  
     <ul style="margin: 4px 0;">
-      <li>Introduction to Deep Learning, Spring 2025</li>
-      <li>Advanced Computer Vision, Fall 2024</li>
-      <li>Computer Vision, Fall 2021</li>
+      <li>Advanced Computer Vision, SKKU, Fall 2025</li>
+      <li>Introduction to Deep Learning, SKKU, Spring 2025</li>
+      <li>Advanced Computer Vision, SKKU, Fall 2024</li>
+      <li>Computer Vision, Inha University, Fall 2021</li>
     </ul>
   </li>
 </ul>
