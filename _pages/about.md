@@ -57,7 +57,7 @@ I am a fourth year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, 
 
 
 ## 📂 Projects
-<!-- 这是一个多行注释 -->
+<!-- 注释掉
 - ### Human-oriented AI Model that Imitates the Human Growth Process based Cognitive Science (2025.04 ~ 2029.12)
   <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
   <li>unded by Institute for Information & communications Technology Promotion (IITP)</li>
@@ -69,6 +69,8 @@ I am a fourth year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, 
   <li>Funded by Institute for Information & communications Technology Promotion (IITP)</li>
   <li>Focus on alignment errors that may occur when applying large language models to the field of mental health and in robotic artificial intelligence technology, and explore technological development methods to address these errors.</li>
   </ul>
+  --> 
+
   
 - ### RGB-X Path Networks for Multi-modal Multi-task Learning (2023.03 ~ 2026.02)
   <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
