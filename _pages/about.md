@@ -57,19 +57,42 @@ I am a fourth year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, 
 
 
 ## 📂 Projects
+
+- ### Human-oriented AI Model that Imitates the Human Growth Process based Cognitive Science (2025.04 ~ 2029.12)
+  <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
+  <li>unded by Institute for Information & communications Technology Promotion (IITP)</li>
+  <li>Develop the human-centered AI models based on spatial intelligence, which can understand and explain numerous physical phenomena and their causal relationships through human cognitive science learning models.</li>
+  </ul>
+  
+- ### Development of Reliable, Secure, and Safe Human-AI Alignment Techniques (2024.07 ~ 2026.12)
+  <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
+  <li>Funded by Institute for Information & communications Technology Promotion (IITP)</li>
+  <li>Focus on alignment errors that may occur when applying large language models to the field of mental health and in robotic artificial intelligence technology, and explore technological development methods to address these errors.</li>
+  </ul>
+  
 - ### RGB-X Path Networks for Multi-modal Multi-task Learning (2023.03 ~ 2026.02)
   <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
     <li>Funded by National Research Foundation of Korea (NRF)</li>  
     <li>Develop path networks for RGB-X data (e.g., depth, thermal, tactile, text) to enable efficient multi-modal fusion and knowledge transfer across tasks and environments, thereby supporting generalization and adaptability in complex real-world settings</li>
   </ul> 
 
-<!--先注释掉这个项目
+- ### RGB-D Object Detection and Segmentation based on Multimodal Fusion (2023.03 ~ 2023.10)
+  <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
+    <li>Funded by Samsung Electronics</li>
+    <li>Develop an object detection and segmentation framework that effectively fuses depth information with RGB images, enabling robots to automatically identify and manipulate specific objects.</li>
+  </ul>
+  
 - ### Visuo-Tactile Perception for Human-Like Manipulation of Deformable Objects with Dynamic Center of Mass (2021.09 ~ 2023.08)
   <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
-    <li>Funded by Samsung Research Funding & Incubation Center for Future Technology</li>
-    <li>Develop core technologies for stable grasping and manipulation of soft, deformable objects through “visual-tactile fusion” and “visual-tactile perception” for robots to manipulate objects at the human level.</li>
+  <li>Funded by Samsung Research Funding & Incubation Center for Future Technology</li>
+  <li>Develop core technologies for stable grasping and manipulation of soft, deformable objects through “visual-tactile fusion” and “visual-tactile perception” for robots to manipulate objects at the human level.</li>
   </ul>
--->
+
+
+
+
+
+
 
 ## 💡 Patents
 <ul style="font-size: 88%; margin: 4px 0;">
