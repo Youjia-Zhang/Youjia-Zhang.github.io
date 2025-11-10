@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, advised by [Prof. Sungeun Hong](https://www.csehong.com/) in the Artificial and Medial Lab [AIM Lab](https://aim.skku.edu/home). My recently research interests include Multimodal Learning, Audio-Visual Recognition, Parameter-Efficient Model Tuning and Test-Time Adaptation. 
+I am a fourth year Ph.D. student at SKKU(Sungkyunkwan University), South Korea, advised by [Prof. Sungeun Hong](https://www.csehong.com/) in the Artificial Intelligence and Medial Lab [AIM Lab](https://aim.skku.edu/home). My recently research interests include Multimodal Learning, Audio-Visual Recognition, Parameter-Efficient Model Tuning and Test-Time Adaptation. 
 
 
 ## 🔥 News
