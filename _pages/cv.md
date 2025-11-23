@@ -6,6 +6,11 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+
+
+
+<!--
 <!-- <p>如果你的浏览器支持内嵌 PDF，会在下方显示预览；否则请使用下载链接。</p>
 
 <div style="max-width:100%;">
@@ -16,3 +21,4 @@ redirect_from:
 </div>
 
 <p>如果你想在新窗口打开 PDF，可使用： <a href="/files/CV_ZHANG_YOUJIA.pdf" target="_blank" rel="noopener">打开/下载简历</a></p> -->
+</p>
