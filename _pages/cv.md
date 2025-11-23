@@ -6,7 +6,7 @@
   </head>
   <body>
     <!-- 点击标题直接跳到 cv.pdf -->
-    <a href="/files/files/CV_ZHANG_YOUJIA.pdf" target="_blank" rel="noopener noreferrer">
+    <a href="/files/CV_ZHANG_YOUJIA.pdf" target="_blank" rel="noopener noreferrer">
       <h1>CV</h1>
     </a>
 
