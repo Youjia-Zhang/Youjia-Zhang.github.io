@@ -10,6 +10,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## 📝 Conferences 
 
+<br style="clear: both;" />
+
 <img style="float: left; margin: 15px 10px 0px 0px; width: 200px; height: auto;" src="/images/papers/ZOO-Prune.png">
 
 <div style="overflow: hidden;">
