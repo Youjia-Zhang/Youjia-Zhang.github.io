@@ -9,6 +9,22 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=y3ypGaIAAAAJ&view_op).
 
 ## 📝 Conferences 
+<img style="float: left; margin: 15px 10px 0px 0px; width: 200px; height: auto;" src="/images/papers/ZOO-Prune.png">
+
+<div style="overflow: hidden;">
+  <h3 style="margin-top: 0; margin-bottom: 6px;">
+    ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models
+    <a href="https://aim-skku.github.io/ZOO-Prune" target="_blank" style="font-size: 16px; color: #1a73e8;">[Project page]</a>
+  </h3>
+
+  <p style="line-height: 1.6; font-size: 14px; margin: 0;">
+    <strong>Youngeun Kim, <strong>Youjia Zhang*</strong>, Huiling Liu, Aecheon Jung, Sunwoo Lee, Sungeun Hong  
+    <br>
+    <span style="color: gray;">CVPR 2026</span>
+  </p>
+</div>
+
+<br style="clear: both;" />
 
 <img style="float: left; margin: 15px 10px 0px 0px; width: 200px; height: auto;" src="/images/papers/ADAPT.png">
 
