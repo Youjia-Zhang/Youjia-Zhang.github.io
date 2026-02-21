@@ -10,6 +10,7 @@ I am a fourth year Ph.D. student at SKKU (Sungkyunkwan University), South Korea,
 
 
 ## 🔥 News
+- *2026.02*: 🎉🎉 One paper is accepted to CVPR 2026.
 - *2025.09*: 🎉🎉 One paper is accepted to NeurIPS 2025.
 - *2025.07*: 🎉🎉 One paper is accepted to ACM MM 2025.
 - *2025.06*: 🎉🎉 One paper is accepted to IJCV 2025 (Q1, JCR Top 3%, IF 11.6).
@@ -19,6 +20,11 @@ I am a fourth year Ph.D. student at SKKU (Sungkyunkwan University), South Korea,
 - *2022.12*: 🎉🎉 One paper is accepted to ACCV 2022 (Oral). 
 
 ## 📝 Selected Publications
+- ### ZOO-Prune: Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models
+  <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
+    <li>Youngeun Kim, <strong>Youjia Zhang*</strong>, Huiling Liu, Aecheon Jung, Sunwoo Lee, and Sungeun Hong</li>
+    <li><span style="color: #0000CD; font-weight: bold;">CVPR 2026</span>  <a href="https://aim-skku.github.io/ZOO-Prune/">[Project page]</a></li>
+  </ul>
 - ### Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment
   <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
     <li><strong>Youjia Zhang</strong>, Youngeun Kim, Young-Geun Choi, Hongyeob Kim, Huiling Liu and Sungeun Hong</li>
