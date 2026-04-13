@@ -104,7 +104,7 @@ I am a fourth year Ph.D. student at SKKU (Sungkyunkwan University), South Korea,
 
 ## 💡 Patents
 <ul style="font-size: 88%; margin: 4px 0;">
-  <li>Spatio-channel attention blocks for cross-modal crowd counting (Registration number C-2022-055027)</li>
+  <li>Spatio-channel attention blocks for cross-modal crowd counting (Registration number C-2022-047209)</li>
 </ul>
 <ul style="font-size: 88%; margin: 4px 0;">
   <li>Apparatus and Method for Prompt Tuning (U.S. Patent Application No. 19/545,275; Pending)</li>
