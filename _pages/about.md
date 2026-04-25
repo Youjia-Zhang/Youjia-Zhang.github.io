@@ -140,6 +140,9 @@ I am a fourth year Ph.D. student at SKKU (Sungkyunkwan University), South Korea,
   </li>
 </ul>
 
+
+<!-- 注释掉
+
 ## 🎓 Education
 
 <ul style="font-size: 88%; margin: 4px 0;">
@@ -148,5 +151,5 @@ I am a fourth year Ph.D. student at SKKU (Sungkyunkwan University), South Korea,
   <li>2018–2021: M.S., School of Computer Science and Technology, CQUPT, advised by <a href="https://faculty.cqupt.edu.cn/zhangx/en/index.htm">Prof. Xu Zhang</a></li>
   <li>2014–2018: B.S., School of Mathematics and Statistics, Chongqing University of Posts and Telecommunications (CQUPT)</li>
 </ul>
-
+  --> 
 
