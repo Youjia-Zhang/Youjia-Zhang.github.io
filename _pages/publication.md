@@ -143,7 +143,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
   <p style="line-height: 1.6; font-size: 14px; margin: 0;">
     <strong>Youjia Zhang</strong>, Huiling Liu, Youngeun Kim and Sungeun Hong 
     <br>
-    <span style="color: gray;">International Journal of Computer Vision (IJCV) 2025 [Q1, JCR Top 3%]</span>
+    <span style="color: gray;">International Journal of Computer Vision (IJCV) 2025 [Q1]</span>
   </p>
 </div>
 
@@ -162,7 +162,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
   <p style="line-height: 1.6; font-size: 14px; margin: 0;">
     <strong>Youjia Zhang</strong>, Soyun Choi, and Sungeun Hong  
     <br>
-    <span style="color: gray;">Pattern Recognition 2025 [Q1, JCR: Top 6.9%]</span>
+    <span style="color: gray;">Pattern Recognition 2025 [Q1]</span>
   </p>
 </div>
 
