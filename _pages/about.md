@@ -13,7 +13,7 @@ I am a fourth year Ph.D. student at SKKU (Sungkyunkwan University), South Korea,
 - *2026.02*: 🎉🎉 One paper is accepted to CVPR 2026.
 - *2025.09*: 🎉🎉 One paper is accepted to NeurIPS 2025.
 - *2025.07*: 🎉🎉 One paper is accepted to ACM MM 2025.
-- *2025.06*: 🎉🎉 One paper is accepted to IJCV 2025 (Q1, JCR Top 3%).
+- *2025.06*: 🎉🎉 One paper is accepted to IJCV 2025 (Q1, JCR: Top 3%).
 - *2025.04*: 🎉🎉 One paper is accepted to CVPR 2025 (Highlight).
 - *2025.01*: 🎉🎉 One paper is accepted to Pattern Recognition (Q1, JCR: Top 6.9%).
 - *2023.06*: 🎉🎉 One paper is accepted to ICMR 2023 (Oral). 
