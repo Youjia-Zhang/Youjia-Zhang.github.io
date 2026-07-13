@@ -130,6 +130,11 @@ I am a fourth year Ph.D. student at SKKU (Sungkyunkwan University), South Korea,
       <li>Neural Information Processing Systems (NeurIPS)</li>
     </ul>
   </li>
+    <li><strong>Program Committee Member</strong>
+    <ul style="margin: 4px 0;">
+      <li>2026 SKKU Multimodal AI Bias Challenge <a href="https://dacon.io/competitions/official/236722/overview/description">[Link]</a> </li>
+    </ul>
+  </li>
   <li><strong>Teaching Assistant</strong>  
     <ul style="margin: 4px 0;">
       <li>Advanced Computer Vision, SKKU, Fall 2025</li>
