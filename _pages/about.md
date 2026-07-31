@@ -136,7 +136,7 @@ I am a fourth year Ph.D. student at SKKU (Sungkyunkwan University), South Korea,
     </ul>
   </li>
 
-  </li>
+
     <li><strong>Invited Talk</strong>
     <ul style="margin: 4px 0;">
       <li>KCCV 2026 Tutorial</li>
