@@ -135,6 +135,16 @@ I am a fourth year Ph.D. student at SKKU (Sungkyunkwan University), South Korea,
       <li>2026 SKKU Multimodal AI Bias Challenge <a href="https://dacon.io/competitions/official/236722/overview/description">[Link]</a> </li>
     </ul>
   </li>
+
+  </li>
+    <li><strong>Invited Talk</strong>
+    <ul style="margin: 4px 0;">
+      <li>KCCV 2026 Tutorial</li>
+    </ul>
+  </li>
+
+
+
   <li><strong>Teaching Assistant</strong>  
     <ul style="margin: 4px 0;">
       <li>Advanced Computer Vision, SKKU, Fall 2025</li>
