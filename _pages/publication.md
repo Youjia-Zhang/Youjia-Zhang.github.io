@@ -19,7 +19,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
   </h3>
 
   <p style="line-height: 1.6; font-size: 14px; margin: 0;">
-    Josep Marques, HyunYoung Cho, <strong>Youjia Zhang*</strong>, Aecheon Jung, Youngeun Kim, Kyuhong Shim and Sungeun Hong
+    Josep Marques, HyunYoung Cho, <strong>Youjia Zhang</strong>, Aecheon Jung, Youngeun Kim, Kyuhong Shim and Sungeun Hong
     <br>
     <span style="color: gray;">EMNLP 2026 Findings</span>
   </p>
