@@ -10,6 +10,28 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## 📝 Conferences 
 
+<img style="float: left; margin: 15px 10px 0px 0px; width: 200px; height: auto;" src="/images/papers/BRT.png">
+
+<div style="overflow: hidden;">
+  <h3 style="margin-top: 0; margin-bottom: 6px;">
+    Block Recursive Transformers for Structured Parameter Sharing
+    <a href="..." target="_blank" style="font-size: 16px; color: #1a73e8;">[Project page]</a>
+  </h3>
+
+  <p style="line-height: 1.6; font-size: 14px; margin: 0;">
+    Josep Marques, HyunYoung Cho, <strong>Youjia Zhang*</strong>, Aecheon Jung, Youngeun Kim, Kyuhong Shim and Sungeun Hong
+    <br>
+    <span style="color: gray;">EMNLP 2026 Findings</span>
+  </p>
+</div>
+
+<br style="clear: both;" />
+
+
+
+
+
+
 <img style="float: left; margin: 15px 10px 0px 0px; width: 200px; height: auto;" src="/images/papers/ZOO-Prune.png">
 
 <div style="overflow: hidden;">
