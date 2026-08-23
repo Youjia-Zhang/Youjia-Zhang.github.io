@@ -10,6 +10,7 @@ I am a fourth year Ph.D. student at SKKU (Sungkyunkwan University), South Korea,
 
 
 ## 🔥 News
+- *2026.08*: 🎉🎉 One paper is accepted to EMNLP 2026 Findings.
 - *2026.02*: 🎉🎉 One paper is accepted to CVPR 2026.
 - *2025.09*: 🎉🎉 One paper is accepted to NeurIPS 2025.
 - *2025.07*: 🎉🎉 One paper is accepted to ACM MM 2025.
