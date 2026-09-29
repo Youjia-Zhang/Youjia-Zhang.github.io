@@ -8,6 +8,7 @@ redirect_from:
 
 I am a fourth year Ph.D. student at SKKU (Sungkyunkwan University), South Korea, advised by [Prof. Sungeun Hong](https://www.csehong.com/) in the [AI & Media Lab (AIM Lab)](https://aim.skku.edu/home). My research interests include VLM Pruning, Multimodal Learning, Audio-Visual Recognition, Parameter-Efficient Model Tuning and Test-Time Adaptation. 
 
+I have had the pleasure of collaborating with [Prof. Jaehong Yoon](https://jaehong31.github.io/), [Prof. Youngeun Kim](https://lotusroot-kim.github.io/research_homepage/), [Prof. Young-Geun Choi](https://sites.google.com/view/ygchoi), and [Prof. Sunwoo Lee](https://sites.google.com/view/sunwoolee/). I am always open to discussing new research ideas and potential collaborations — feel free to [reach out](mailto:zhangyoujia@skku.edu)! For more details about my research and experience, please see my CV.
 
 ## 🔥 News
 - *2026.08*: 🎉🎉 One paper is accepted to EMNLP 2026 Findings.
