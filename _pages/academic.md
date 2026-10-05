@@ -14,6 +14,12 @@ author_profile: true
 - ### Reviewer
   - ACM International Conference on Multimedia (ACM MM) 
   - Neural Information Processing Systems (NeurIPS)
+  - The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)
+  - International Conference on Learning Representations (ICLR)
+  - Conference on Empirical Methods in Natural Language Processing (EMNLP)
+
+
     
 - ### Invited Talks
   - "Spatio-channel attention blocks for cross-modal crowd counting", ACCV 2022
+  - KCCV 2026 Tutorial
