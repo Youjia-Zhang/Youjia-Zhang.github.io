@@ -130,6 +130,9 @@ I have had the pleasure of collaborating with [Prof. Jaehong Yoon](https://jaeho
     <ul style="margin: 4px 0;">
       <li>ACM International Conference on Multimedia (ACM MM)</li>
       <li>Neural Information Processing Systems (NeurIPS)</li>
+      <li>The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)</li>
+      <li>International Conference on Learning Representations (ICLR)</li>
+      <li>Conference on Empirical Methods in Natural Language Processing (EMNLP)</li>
     </ul>
   </li>
     <li><strong>Program Committee Member</strong>
