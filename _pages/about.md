@@ -64,7 +64,7 @@ I have had the pleasure of collaborating with [Prof. Jaehong Yoon](https://jaeho
   </ul>
 
 
-## 📂 Projects
+## 📂 Selected Projects
 <!-- 注释掉
 - ### Human-oriented AI Model that Imitates the Human Growth Process based Cognitive Science (2025.04 ~ 2029.12)
   <ul style="font-size: 88%; margin-top: 0; margin-bottom: 0;">
