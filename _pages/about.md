@@ -101,42 +101,42 @@ I have had the pleasure of collaborating with [Prof. Jaehong Yoon](https://jaeho
 
 ## 📂 Selected Research Projects
 
-### Visuo-Tactile World Model for Dexterous Robotic Manipulation with Non-Standard Sensors (Mar 2026 – Present)
-<ul style="font-size: 88%; margin: 4px 0 12px;">
-  <li><strong>Funding:</strong> National Research Foundation of Korea (NRF)</li>
-  <li><strong>Research Focus:</strong> Sensor-invariant tactile representation learning, visuo-tactile world modeling, and sim-to-real transfer for dexterous robotic manipulation.</li>
-</ul>
+- ### Visuo-Tactile World Model for Dexterous Robotic Manipulation with Non-Standard Sensors (Mar 2026 – Present)
+  <ul style="font-size: 88%; margin: 4px 0 12px;">
+    <li><strong>Funding:</strong> National Research Foundation of Korea (NRF)</li>
+    <li><strong>Research Focus:</strong> Sensor-invariant tactile representation learning, visuo-tactile world modeling, and sim-to-real transfer for dexterous robotic manipulation.</li>
+  </ul>
 
-### Pioneer Research Group for Socially Responsible Artificial Intelligence (Jul 2024 – Dec 2026)
-<ul style="font-size: 88%; margin: 4px 0 12px;">
-  <li><strong>Funding:</strong> Institute of Information & Communications Technology Planning & Evaluation (IITP)</li>
-  <li><strong>Research Focus:</strong> Large language model learning algorithms, AI alignment, and privacy-preserving multimodal learning for trustworthy AI.</li>
-</ul>
+- ### Pioneer Research Group for Socially Responsible Artificial Intelligence (Jul 2024 – Dec 2026)
+  <ul style="font-size: 88%; margin: 4px 0 12px;">
+    <li><strong>Funding:</strong> Institute of Information & Communications Technology Planning & Evaluation (IITP)</li>
+    <li><strong>Research Focus:</strong> Large language model learning algorithms, AI alignment, and privacy-preserving multimodal learning for trustworthy AI.</li>
+  </ul>
 
-### RGB-X Path Networks for Multi-modal Multi-task Learning (Mar 2023 – Feb 2026)
-<ul style="font-size: 88%; margin: 4px 0 12px;">
-  <li><strong>Funding:</strong> National Research Foundation of Korea (NRF)</li>
-  <li><strong>Research Focus:</strong> Dynamic path selection and cross-modal fusion for RGB-X data, enabling knowledge transfer and generalization across tasks and environments.</li>
-</ul>
+- ### RGB-X Path Networks for Multi-modal Multi-task Learning (Mar 2023 – Feb 2026)
+  <ul style="font-size: 88%; margin: 4px 0 12px;">
+    <li><strong>Funding:</strong> National Research Foundation of Korea (NRF)</li>
+    <li><strong>Research Focus:</strong> Dynamic path selection and cross-modal fusion for RGB-X data, enabling knowledge transfer and generalization across tasks and environments.</li>
+  </ul>
 
-### RGB-D Object Detection and Segmentation Based on Multimodal Fusion (Mar 2023 – Oct 2023)
-<ul style="font-size: 88%; margin: 4px 0 12px;">
-  <li><strong>Funding:</strong> Samsung Electronics</li>
-  <li><strong>Research Focus:</strong> RGB-D fusion for object detection and segmentation, supporting object recognition and robotic manipulation.</li>
-</ul>
+- ### RGB-D Object Detection and Segmentation Based on Multimodal Fusion (Mar 2023 – Oct 2023)
+  <ul style="font-size: 88%; margin: 4px 0 12px;">
+    <li><strong>Funding:</strong> Samsung Electronics</li>
+    <li><strong>Research Focus:</strong> RGB-D fusion for object detection and segmentation, supporting object recognition and robotic manipulation.</li>
+  </ul>
 
-### Visuo-Tactile Perception for Human-Like Manipulation of Deformable Objects with Dynamic Center of Mass (Sep 2021 – Aug 2023)
-<ul style="font-size: 88%; margin: 4px 0 12px;">
-  <li><strong>Funding:</strong> Samsung Research Funding & Incubation Center for Future Technology</li>
-  <li><strong>Research Focus:</strong> Visuo-tactile perception and fusion for stable grasping and manipulation of soft, deformable objects.</li>
-</ul>
+- ### Visuo-Tactile Perception for Human-Like Manipulation of Deformable Objects with Dynamic Center of Mass (Sep 2021 – Aug 2023)
+  <ul style="font-size: 88%; margin: 4px 0 12px;">
+    <li><strong>Funding:</strong> Samsung Research Funding & Incubation Center for Future Technology</li>
+    <li><strong>Research Focus:</strong> Visuo-tactile perception and fusion for stable grasping and manipulation of soft, deformable objects.</li>
+  </ul>
 
 
-### Image Classification and Segmentation Based on Data Privacy-Preserving Domain Adaptation (Jun 2021 – Feb 2023)
-<ul style="font-size: 88%; margin: 4px 0 12px;">
-  <li><strong>Funding:</strong> National Research Foundation of Korea (NRF)</li>
-  <li><strong>Research Focus:</strong> Privacy-preserving domain adaptation for image classification and semantic segmentation, enabling robust generalization across domains without accessing source-domain data.</li>
-</ul>
+- ### Image Classification and Segmentation Based on Data Privacy-Preserving Domain Adaptation (Jun 2021 – Feb 2023)
+  <ul style="font-size: 88%; margin: 4px 0 12px;">
+    <li><strong>Funding:</strong> National Research Foundation of Korea (NRF)</li>
+    <li><strong>Research Focus:</strong> Privacy-preserving domain adaptation for image classification and semantic segmentation, enabling robust generalization across domains without accessing source-domain data.</li>
+  </ul>
 
 
 
