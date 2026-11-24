@@ -105,12 +105,35 @@ I have had the pleasure of collaborating with [Prof. Jaehong Yoon](https://jaeho
 
 
 ## 💡 Patents
-<ul style="font-size: 88%; margin: 4px 0;">
-  <li>Spatio-channel attention blocks for cross-modal crowd counting (Registration number C-2022-047209)</li>
+<!-- <ul style="font-size: 88%; margin: 4px 0;">
+  <li>Method and System for Spatio-Channel Attention Blocks for Cross-modal Crowd Counting (Registration number C-2022-047209)</li>
 </ul>
 <ul style="font-size: 88%; margin: 4px 0;">
   <li>Apparatus and Method for Prompt Tuning (U.S. Patent Application No. 19/545,275; Pending)</li>
+</ul> -->
+
+
+<ul style="font-size: 88%; margin: 4px 0;">
+  <li>
+    <strong>Method and System for Spatio-Channel Attention Blocks for Cross-modal Crowd Counting.</strong>
+    Granted Korean Patent (KR 10-2859172 B1), Second Inventor, 2025.
+  </li>
 </ul>
+
+<ul style="font-size: 88%; margin: 4px 0;">
+  <li>
+    <strong>Apparatus and Method for Visual Token Pruning.</strong>
+    Korean Patent Application No. 10-2026-0112092; Pending.
+  </li>
+</ul>
+
+<ul style="font-size: 88%; margin: 4px 0;">
+  <li>
+    <strong>Apparatus and Method for Prompt Tuning.</strong>
+    U.S. Patent Application No. 19/545,275; Pending.
+  </li>
+</ul>
+
 
 
 ## 🏆 Honors & Awards
